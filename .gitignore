@@ -1,0 +1,16 @@
+# 비밀 정보 (Google 서비스 계정 키)
+.streamlit/secrets.toml
+
+# 로컬 데이터
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# 검수 부산물
+.playwright-mcp/
+review-shots/
